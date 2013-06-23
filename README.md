@@ -1,4 +1,4 @@
 loginRegister
 =============
 
-a simple PHP and mySql Login &amp; Registration system
+a simple PHP and mySql Login and Registration system
